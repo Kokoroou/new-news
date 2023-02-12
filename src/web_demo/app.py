@@ -12,7 +12,7 @@ def hash_password(plain_password: str = "") -> str:
 
 
 def _load_config():
-    with open('./../config/config.yaml') as file:
+    with open('../../config/config.yaml') as file:
         config = yaml.load(file, Loader=SafeLoader)
 
     authenticator = stauth.Authenticate(
