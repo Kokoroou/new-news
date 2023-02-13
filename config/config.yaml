@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    kokoroou:
+      email: truongtuananhsamson@gmail.com
+      name: Truong Tuan Anh
+      password: '$2b$12$8BWzKLEqeWee1GXL9RjA0OS9R6WQzx6Px241a3qrNM1MWLCjcEu9O'
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - tamvuong5818@gmail.com
