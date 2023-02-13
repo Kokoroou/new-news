@@ -1,0 +1,13 @@
+streamlit~=1.17.0
+streamlit-authenticator~=0.2.1
+newspaper3k~=0.2.8
+PyYAML~=6.0
+tqdm~=4.62.3
+pandas~=1.4.4
+requests~=2.27.1
+beautifulsoup4~=4.11.1
+torch~=1.11.0
+transformers~=4.26.1
+sentencepiece
+matplotlib~=3.3.4
+wordcloud~=1.8.2.2

@@ -1,2 +1,2 @@
 # new-news
-A simple online newspaper recommendation system
+A simple online newspaper summarization and recommendation system
