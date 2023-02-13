@@ -8,9 +8,10 @@
       "read": {
         "SucKhoe": [
           "news1.txt",
-          "news2.txt",
           "news3.txt",
-          "news4.txt"
+          "news4.txt",
+          "news8.txt",
+          "news2.txt"
         ]
       },
       "unread": {
@@ -33,7 +34,6 @@
           "news24.txt",
           "news25.txt",
           "news26.txt",
-          "news8.txt",
           "news7.txt",
           "news6.txt",
           "news5.txt"

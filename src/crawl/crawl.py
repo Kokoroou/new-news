@@ -20,22 +20,22 @@ def crawl_1(max_page: int = 10):
 
     links2 = [
         'https://vnexpress.net/suc-khoe',
-        'https://vnexpress.net/du-lich',
-        'https://vnexpress.net/so-hoa',
-        'https://vnexpress.net/kinh-doanh',
-        'https://vnexpress.net/giai-tri',
-        'https://vnexpress.net/the-thao'
+        # 'https://vnexpress.net/du-lich',
+        # 'https://vnexpress.net/so-hoa',
+        # 'https://vnexpress.net/kinh-doanh',
+        # 'https://vnexpress.net/giai-tri',
+        # 'https://vnexpress.net/the-thao'
     ]
 
     links3 = [
-        'https://vnexpress.net/thoi-su',
-        'https://vnexpress.net/goc-nhin',
-        'https://vnexpress.net/the-gioi',
-        'https://vnexpress.net/khoa-hoc',
-        'https://vnexpress.net/phap-luat',
-        'https://vnexpress.net/giao-duc',
-        'https://vnexpress.net/oto-xe-may',
-        'https://vnexpress.net/hai',
+        # 'https://vnexpress.net/thoi-su',
+        # 'https://vnexpress.net/goc-nhin',
+        # 'https://vnexpress.net/the-gioi',
+        # 'https://vnexpress.net/khoa-hoc',
+        # 'https://vnexpress.net/phap-luat',
+        # 'https://vnexpress.net/giao-duc',
+        # 'https://vnexpress.net/oto-xe-may',
+        # 'https://vnexpress.net/hai',
     ]
 
     try:  

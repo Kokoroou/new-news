@@ -25,6 +25,6 @@ def run_demo():
 
 
 if __name__ == "__main__":
-    # run_crawler()
-    # run_processor()
+    run_crawler()
+    run_processor()
     run_demo()
