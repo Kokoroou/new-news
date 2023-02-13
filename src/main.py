@@ -3,6 +3,7 @@ from pathlib import Path
 
 from crawl.crawl import crawl_1, crawl_2
 from process.process import process_1
+from process.visualize import visualize
 
 CURRENT_DIR = Path(__file__).parent.resolve()
 
@@ -14,6 +15,7 @@ def run_crawler():
 
 def run_processor():
     process_1()
+    # visualize('vnexpress', 'SucKhoe')
 
 
 def run_demo():

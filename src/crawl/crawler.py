@@ -53,8 +53,7 @@ def get_links(topic_link=None, title_tag='h2'):
 def crawl_data(link=None, data_dir=Path('./data')):
     """Get data from URL and save to file"""
     try:
-        if not Path(data_dir).is_dir():
-            os.mkdir(data_dir)
+        os.makedirs(data_dir, exist_ok=True)
 
         # Get HTML source code from link
         response = requests.get(link)
